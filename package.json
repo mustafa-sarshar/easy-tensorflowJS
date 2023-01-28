@@ -1,0 +1,27 @@
+{
+  "name": "easy-tensorflowjs",
+  "version": "1.0.0",
+  "description": "The Repo aims at illustrating simple implementation of TensorFlow.js  using innovative examples.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafa-sarshar/easy-tensorflowJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mustafa-sarshar/easy-tensorflowJS/issues"
+  },
+  "homepage": "https://github.com/mustafa-sarshar/easy-tensorflowJS#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.2.0",
+    "@tensorflow/tfjs-backend-webgl": "^4.2.0",
+    "@tensorflow/tfjs-core": "^4.2.0",
+    "@tensorflow/tfjs-node": "^4.2.0",
+    "@tensorflow/tfjs-node-gpu": "^4.2.0"
+  },
+  "type": "module"
+}
